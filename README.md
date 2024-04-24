@@ -2,3 +2,4 @@
 
 This handy tool helps you analyze text and see how often each word appears. Simply enter your text and get a detailed frequency report.
 
+<div class="markdown-preview-github-styles.lightTheme">dsfsdf</div>
