@@ -1,2 +1,2 @@
 # WordCounter
-Provide text and get the frequency of occurrences of each word
+Provide some text and get the frequency of each word
