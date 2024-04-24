@@ -1,2 +1,2 @@
 # WordCounter
-Provide a text and get its words distribution 
+Provide text and get the frequency of occurrences of each word
